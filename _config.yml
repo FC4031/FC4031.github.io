@@ -17,7 +17,7 @@ title: FC4031
 tagline: /@IUST Dr. Mehrdad Ashtiani
 description: Course page for the Fundamentals of Programming course @IUST
 author: Milad Zarei
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://FC4031.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
